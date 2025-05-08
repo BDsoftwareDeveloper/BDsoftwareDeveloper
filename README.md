@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with deep exper
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saiful-islam-data-science/)
 - 🌐 [Portfolio](https://your-portfolio.com)
 - 📧 saiful.freelance@example.com
 
