@@ -4,12 +4,13 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with deep experience in backend systems, real-time data processing, cloud-native solutions, and scalable application development. I'm currently working in the R&D team for an **Order Management System (OMS)** with hands-on expertise in:
 
+- **Kubernetes** (Container orchestration)
 - **PostgreSQL** (Relational DBMS)
 - **MongoDB** (NoSQL)
 - **Redis** (In-memory data store)
 - **Apache Kafka** (Message broker)
 - **Python** (Backend, Data Processing)
-- **FastAPI** / **Django** (Web frameworks)
+- **FastAPI** / **Django** (Web frameworks for APIs and full-stack)
 - **Docker & Docker Compose** (Containerization)
 - **Microservices & SaaS** Architecture
 - **Real-time Feed Systems** (e.g., TradingView integration)
@@ -18,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with deep exper
 ---
 
 ## 🔧 Technologies & Tools
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -28,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with deep exper
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ---
 
